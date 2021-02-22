@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Truculenta:wght@100&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #303030 ;
+}
+.era{
+    font-size: 340%;
+    margin-top: 2%;
+    color: white ;
+    font-family: 'Rajdhani', sans-serif;
+}
+div.padding{
+    background-color: white;
+    padding-top: 7%;
+    padding-bottom: 4%;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 3%;
+    display: block;
+    color: #303030;
+    border-radius: 1em;
+    z-index: +10;
+}
+.text{
+    margin-top: -37%;
+    font-family: 'Rajdhani', sans-serif;
+    margin-left: -5px;
+   
+}
+a:link {
+    color: #A8A8A8;
+    background-color: transparent;
+    text-decoration: none;
+  }
+a:visited {
+    color: #303030;
+    text-decoration: none;
+  } input[type=text]
+  {
+      width: 85%;
+     margin-left: 4%;
+     font-family: 'Truculenta', sans-serif;
+         
+  }
+  label[for=username]
+  {
+      margin-left: 3%;
+      font-family: 'Truculenta', sans-serif;
+  }
+  input[type=email]
+  {
+      width: 85%;
+     margin-left: 4%;
+     font-family: 'Truculenta', sans-serif;
+         
+  }
+  label[for=email]
+  {
+      margin-left: 3%;
+      font-family: 'Truculenta', sans-serif;
+  }
+ label[for=phone]
+  {
+      width: 85%;
+     margin-left: 4%;
+     font-family: 'Truculenta', sans-serif;
+         
+  }
+  input[type=password]
+  {
+      width: 85%;
+     margin-left: 4%;
+     font-family: 'Truculenta', sans-serif;
+         
+  }
+  label[for=pwd]
+  {
+      margin-left: 3%;
+      font-family: 'Truculenta', sans-serif;
+  }
+  
+input[type=image]
+
+{
+    margin-top: -20%;
+    margin-left: 25%;
+    overflow: visible;
+    z-index: auto;
+}
+.circle{
+        height:45px;
+        width:90px;
+        border-radius: 0 0 90px 90px;
+        background:white;
+        margin-left: 47.4%;
+        height: 20px;
+        width: 40px;
+
+   }
+    
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 7px;
+  }
+
+.lgn{
+    text-decoration: none;
+    text-transform: none;
+   
+}
+
